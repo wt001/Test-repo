@@ -4,5 +4,5 @@ public class Main {
     }
     testing github sync 1
     and this is new
-    and this also
+    and this also 1
 }
