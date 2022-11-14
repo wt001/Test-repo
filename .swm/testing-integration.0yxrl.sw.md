@@ -4,7 +4,7 @@ name: Testing integration
 file_version: 1.0.2
 app_version: 0.9.9-7
 file_blobs:
-  src/Main.java: 68052102cada60a5e51f56f7067f0428b3eb5b59
+  src/Main.java: 663e01f55034a87a97eb8f75a56592b83c52dba0
 ---
 
 Testing from IntelliJ
@@ -17,7 +17,8 @@ Testing from IntelliJ
 🟩 4          }
 🟩 5          testing github sync 1
 🟩 6          and this is new
-🟩 7      }
+🟩 7          and this also
+🟩 8      }
 ```
 
 <br/>
