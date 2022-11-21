@@ -2,9 +2,9 @@
 id: a6qdy
 name: Test Class from IntelliJ
 file_version: 1.0.2
-app_version: 0.9.9-7
+app_version: 0.10.0-0
 file_blobs:
-  src/TestClass.java: 9ff7eef8b0faff1aaf3d08205cd073d14a50ab29
+  src/TestClass.java: e1c3ad975f1012fa8edce01de1a11b4d9da3f074
 ---
 
 This is the test for Test Class
@@ -13,8 +13,9 @@ This is the test for Test Class
 ```java
 🟩 1      public class TestClass {
 🟩 2          Testing this new class with Swimm 123
-🟩 3      }
-🟩 4      
+🟩 3             Testing snapshot sync
+🟩 4      }
+🟩 5      
 ```
 
 <br/>
