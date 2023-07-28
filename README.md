@@ -1,4 +1,5 @@
 # Test-repo
+And latest addition before gitbook sync
 
 THIS IS ADDED IN GITBOOK - testing 2 way sync THIS IS ADDED IN GITHUB - teste 2 way sync successfully
 
