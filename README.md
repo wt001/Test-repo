@@ -1,6 +1,7 @@
 # Test-repo
 
 THIS IS ADDED IN GITBOOK - testing 2 way sync
+THIS IS ADDED IN GITHUB - teste 2 way sync successfully
 
 Test testing gitbook and more testing
 
