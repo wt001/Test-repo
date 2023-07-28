@@ -1,5 +1,7 @@
 # Test-repo
 
+THIS IS ADDED IN GITBOOK - testing 2 way sync
+
 Test testing gitbook and more testing
 
 and adding this
@@ -21,4 +23,3 @@ test
 ## TEST HEADING
 
 {% embed url="https://www.figma.com/file/2Y5FAsNoTFH2ATyAlDpZsw/Archbee---Design-Updates?node-id=277:6549&t=JID8TYY4OdwLqjyN-0" %}
-
