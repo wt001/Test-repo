@@ -1,4 +1,5 @@
 # Test-repo
+
 And latest addition before gitbook sync
 
 THIS IS ADDED IN GITBOOK - testing 2 way sync THIS IS ADDED IN GITHUB - teste 2 way sync successfully
@@ -7,9 +8,9 @@ THIS IS ADDED IN GITBOOK - testing 2 way sync THIS IS ADDED IN GITHUB - teste 2 
 
 Test testing gitbook and more testing
 
-and adding this
+This is new for diff purposes
 
-new line
+new line this is updated
 
 a new line
 
